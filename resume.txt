@@ -4,6 +4,8 @@ Maheswari N
 ADDRESS
 987,12th main HAL 2nd stage, 1st cross 
 Indiranagar Bangalore 560008
+DATE OF BIRTH
+15th JAN 1998
 CONTACT NUMBER
 9008181746
 EMAIL ID
@@ -13,12 +15,26 @@ ACADEMIC QUALIFICATION
 DEGREE                             BOARD                   NAME OF THE INSTITUDE           YEAR            PERCENTAGE
 Tenth                              ICSE                 THE CATHEDRAL HIGH SCHOOL          2014             61%
 twelveth science                   PUC                   NEW HORIZON PUC COLLEGE           2016            61.1%
-Engineering                      Affilated               NEW HORIZON COLLEGE OF            2020                                                        
-                                   to vtu                     ENGINEERING
+Engineering                      Affilated               NEW HORIZON COLLEGE OF            2020                                         
+                                  to vtu                     ENGINEERING
 
-CGPA IN ENGINEERING 
+CGPA IN ELECTRONIC COMMUNICATION ENGINEERING 
 1st sem           2nd sem        3rd sem       4th sem
 8.86               8.24            8.12           7.63
 
 COMPUTER PROFICIENCY
 PROGRAMMING LANGUAGE: C,JAVA,HTML
+
+PROJECTS
+led chaser using IC 4017
+single port RAM using VHDL
+
+EXTRACURRICULAR ACTIVITES
+Taken part in AVIATION QUIZ in Nitte Meenakshi Institute Of Technology
+Taken part in TECHNICAL HUB in Visvesvaraya Institute Of Technology
+Attended workshop in New Horizon College of Engineering, based on REMOTELY OPERATED VEHICLE
+Taken part in hands on workshop in New Horizon College of Engineering, based on IOT AND EMBEDDED SYSTEM associated with TAXAS INSTRUMENTS UNIVERSITY PROGRAM
+
+CASE STUDY
+Emphasis and de-emphasis in an FM Syster
+XOR gate using transmission gate in VLSI Design
