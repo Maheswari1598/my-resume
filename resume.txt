@@ -1,0 +1,24 @@
+PERSONAL DETAILS
+NAME
+Maheswari N
+ADDRESS
+987,12th main HAL 2nd stage, 1st cross 
+Indiranagar Bangalore 560008
+CONTACT NUMBER
+9008181746
+EMAIL ID
+maheshe2213.cats@gmail.com
+
+ACADEMIC QUALIFICATION
+DEGREE                             BOARD                   NAME OF THE INSTITUDE           YEAR            PERCENTAGE
+Tenth                              ICSE                 THE CATHEDRAL HIGH SCHOOL          2014             61%
+twelveth science                   PUC                   NEW HORIZON PUC COLLEGE           2016            61.1%
+Engineering                      Affilated               NEW HORIZON COLLEGE OF            2020                                                        
+                                   to vtu                     ENGINEERING
+
+CGPA IN ENGINEERING 
+1st sem           2nd sem        3rd sem       4th sem
+8.86               8.4            8.2           7.63
+
+COMPUTER PROFICIENCY
+PROGRAMMING LANGUAGE: C,JAVA,HTML
