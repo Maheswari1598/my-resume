@@ -18,7 +18,7 @@ Engineering                      Affilated               NEW HORIZON COLLEGE OF 
 
 CGPA IN ENGINEERING 
 1st sem           2nd sem        3rd sem       4th sem
-8.86               8.4            8.2           7.63
+8.86               8.24            8.12           7.63
 
 COMPUTER PROFICIENCY
 PROGRAMMING LANGUAGE: C,JAVA,HTML
